@@ -52,3 +52,8 @@
 * [1.11 Understand and apply threat modeling concepts and methodologies](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies.md)
 * [1.12 Apply Supply Chain Risk Management (SCRM) concepts](domain-1/1.12-apply-supply-chain-risk-management-scrm-concepts.md)
 * [1.13 Establish and maintain a security awareness, education & training program](domain-1/1.13-establish-and-maintain-a-security-awareness-education-and-training-program.md)
+
+## Domain 2: Asset Security
+
+* [2.2 Establish information and asset handling requirements](domain-2-asset-security/2.2-establish-information-and-asset-handling-requirements.md)
+* [2.1 Identify and classify information and assets](domain-2-asset-security/2.1-identify-and-classify-information-and-assets.md)
