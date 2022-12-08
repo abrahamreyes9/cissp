@@ -13,7 +13,7 @@ Implementing security governance by way of organizational processes, defining ro
 * If a system under your control is compromised and you can prove you did your Due Care, you are most likely not liable.&#x20;
 * If a system under your control is compromised and you did NOT perform Due Care, you are most likely liable
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Due diligence** ensures those steps are carried out
 * **Due diligence** is the act of gathering the necessary information so the best decision-making activities can take place. Before a company purchases another company, it should carry out due diligence activities so that the purchasing company does not have any “surprises” down the road.

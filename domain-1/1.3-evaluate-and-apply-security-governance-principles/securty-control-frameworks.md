@@ -11,7 +11,7 @@ Security frameworks provide templates for security activities. These include COB
 ![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (12).png>)
 
 • **ISO/IEC 27005** Focused on risk treatment, this joint International Organization for Standardization/International Electrotechnical Commission framework is best used in conjunction with ISO/IEC 27000 series standards. \
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 • **OCTAVE** The Operationally Critical Threat, Asset, and Vulnerability Evaluation framework, developed at Carnegie Mellon University, is focused on risk assessment.&#x20;
 
@@ -21,7 +21,7 @@ Security frameworks provide templates for security activities. These include COB
 
 • **ISO/IEC 27000 series** This is a series of international standards on how to develop and maintain an information security management system (ISMS), developed by ISO and IEC.&#x20;
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 
 • **NIST Cybersecurity Framework** Driven by the need to secure government systems, NIST developed this widely used and comprehensive framework for risk-driven information security.&#x20;
 
@@ -45,7 +45,7 @@ Security frameworks provide templates for security activities. These include COB
 
 • **Zachman Framewor**k This is a model for the development of enterprise architectures, developed by John Zachman.&#x20;
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (26).png>)
 
 • **TOGAF** The Open Group Architecture Framework is a model and methodology for the development of enterprise architectures
 

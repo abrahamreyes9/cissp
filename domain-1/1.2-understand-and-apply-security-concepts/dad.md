@@ -15,4 +15,4 @@ Opposite of Integrity&#x20;
 **Destruction** \
 Opposite of Availability
 
-![](<../../.gitbook/assets/image (26).png>)![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)![](<../../.gitbook/assets/image (15).png>)

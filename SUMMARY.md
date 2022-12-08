@@ -55,5 +55,14 @@
 
 ## Domain 2: Asset Security
 
+* [2.1 Identify and classify information and assets](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/README.md)
+  * [Data Remanence](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-remanence.md)
+  * [Data Owner/Processors](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-owner-processors.md)
+  * [Data Privacy](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-privacy.md)
+  * [Classification](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/classification.md)
+  * [Labels](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/labels.md)
 * [2.2 Establish information and asset handling requirements](domain-2-asset-security/2.2-establish-information-and-asset-handling-requirements.md)
-* [2.1 Identify and classify information and assets](domain-2-asset-security/2.1-identify-and-classify-information-and-assets.md)
+* [2.3 Provision resources securely](domain-2-asset-security/2.3-provision-resources-securely.md)
+* [2.4 Manage data lifecycle](domain-2-asset-security/2.4-manage-data-lifecycle.md)
+* [2.5 Ensure appropriate asset retention (e.g., End-of-Life (EOL), End-of-Support (EOS))](domain-2-asset-security/2.5-ensure-appropriate-asset-retention-e.g.-end-of-life-eol-end-of-support-eos.md)
+* [2.6 Determine data security controls and compliance requirements](domain-2-asset-security/2.6-determine-data-security-controls-and-compliance-requirements.md)
