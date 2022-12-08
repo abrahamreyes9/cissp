@@ -3,9 +3,11 @@
 * [CISSP](README.md)
 * [Exam Objectives](exam-objectives/README.md)
   * [Domain 1: Security and Risk Management](exam-objectives/domain-1-security-and-risk-management/README.md)
+    * [More Questions](exam-objectives/domain-1-security-and-risk-management/more-questions.md)
     * [Domain 1 - Questions](exam-objectives/domain-1-security-and-risk-management/domain-1-questions.md)
     * [Domain 1 - Quiz](exam-objectives/domain-1-security-and-risk-management/domain-1-quiz.md)
   * [Domain 2: Asset Security](exam-objectives/domain-2-asset-security.md)
+  * [Domain 2 - Questions](exam-objectives/domain-2-questions.md)
   * [Domain 3: Security Architecture and Engineering](exam-objectives/domain-3-security-architecture-and-engineering.md)
 
 ## Domain 1
@@ -56,6 +58,8 @@
 ## Domain 2: Asset Security
 
 * [2.1 Identify and classify information and assets](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/README.md)
+  * [Sensitive Information / Media Security](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/sensitive-information-media-security.md)
+  * [Data Ownership/Roles](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-ownership-roles.md)
   * [Data Remanence](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-remanence.md)
   * [Data Owner/Processors](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-owner-processors.md)
   * [Data Privacy](domain-2-asset-security/2.1-identify-and-classify-information-and-assets/data-privacy.md)
@@ -66,3 +70,15 @@
 * [2.4 Manage data lifecycle](domain-2-asset-security/2.4-manage-data-lifecycle.md)
 * [2.5 Ensure appropriate asset retention (e.g., End-of-Life (EOL), End-of-Support (EOS))](domain-2-asset-security/2.5-ensure-appropriate-asset-retention-e.g.-end-of-life-eol-end-of-support-eos.md)
 * [2.6 Determine data security controls and compliance requirements](domain-2-asset-security/2.6-determine-data-security-controls-and-compliance-requirements.md)
+
+## Domain 3: Security Architecture and Engineering
+
+* [3.1 Research, implement and manage engineering processes using secure design principles](domain-3-security-architecture-and-engineering/3.1-research-implement-and-manage-engineering-processes-using-secure-design-principles.md)
+* [3.2 Understand the fundamental concepts of security models (e.g., Biba, Star Model, Bell-LaPadula)](domain-3-security-architecture-and-engineering/3.2-understand-the-fundamental-concepts-of-security-models-e.g.-biba-star-model-bell-lapadula.md)
+* [3.3 Select controls based upon systems security requirements](domain-3-security-architecture-and-engineering/3.3-select-controls-based-upon-systems-security-requirements.md)
+* [3.4 Understand security capabilities of Information Systems (IS) (e.g., memory protection, Trusted Platform Module (TPM), encryption/decryption)](domain-3-security-architecture-and-engineering/3.4-understand-security-capabilities-of-information-systems-is-e.g.-memory-protection-trusted-platfo.md)
+* [3.5 Assess and mitigate the vulnerabilities of security architectures, designs, and solution elements](domain-3-security-architecture-and-engineering/3.5-assess-and-mitigate-the-vulnerabilities-of-security-architectures-designs-and-solution-elements.md)
+* [3.6 Select and determine cryptographic solutions](domain-3-security-architecture-and-engineering/3.6-select-and-determine-cryptographic-solutions.md)
+* [3.7 Understand methods of cryptanalytic attacks](domain-3-security-architecture-and-engineering/3.7-understand-methods-of-cryptanalytic-attacks.md)
+* [3.8 Apply security principles to site and facility design](domain-3-security-architecture-and-engineering/3.8-apply-security-principles-to-site-and-facility-design.md)
+* [3.9 Design site and facility security controls](domain-3-security-architecture-and-engineering/3.9-design-site-and-facility-security-controls.md)

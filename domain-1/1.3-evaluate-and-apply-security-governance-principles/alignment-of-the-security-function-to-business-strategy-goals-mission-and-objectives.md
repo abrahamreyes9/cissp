@@ -2,7 +2,7 @@
 
 Security activities must be aligned with business strategy, mission, goals, and objectives. This requires strategic, tactical, and operational planning\
 \
-![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (7) (1).png>)
 
 **Strategic Plan**\
 ****A strategic plan is a long-term plan that is fairly stable. It defines the organization’s security purpose. It defines the security function and aligns it to the goals, mission, and objectives of the organization

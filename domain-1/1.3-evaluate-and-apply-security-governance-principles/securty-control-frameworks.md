@@ -8,7 +8,7 @@ Security frameworks provide templates for security activities. These include COB
 
 • **NIST RMF** The Risk Management Framework, developed by the National Institute of Standards and Technology, is composed of three interrelated NIST Special Publications (SPs): 800-39, 800-37, and 800-30.&#x20;
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (12).png>)
 
 • **ISO/IEC 27005** Focused on risk treatment, this joint International Organization for Standardization/International Electrotechnical Commission framework is best used in conjunction with ISO/IEC 27000 series standards. \
 ![](<../../.gitbook/assets/image (5) (1).png>)

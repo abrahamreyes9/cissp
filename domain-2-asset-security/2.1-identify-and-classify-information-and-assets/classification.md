@@ -1,5 +1,21 @@
 # Classification
 
+### Data Classification Policies:&#x20;
+
+Formal Access Approval:&#x20;
+
+* Document from the data owner approving access to the data for the subject. ▪
+* Subject must understand all requirements for accessing the data and the liability involved if compromised, lost, or destroyed.&#x20;
+* Appropriate Security Clearance is required as well as the Formal Access Approval.&#x20;
+
+Need to know:&#x20;
+
+* Just because you have access does not mean you are allowed the data.&#x20;
+* You need a valid reason for accessing the data. If you do not have one you can be terminated/sued/jailed/fined.&#x20;
+* Leaked information about Octomom Natalie Suleman cost 15 Kaiser employees fines or terminations because they had no valid reason for accessing her file.&#x20;
+* We may never know who actually leaked the information. It may not be one of the 15, but they violated HIPAA by accessing the data.&#x20;
+* Least privilege: Users have the minimum necessary access to perform their job duties.
+
 ### The United States information classification (goverment)
 
 Core Secrets is the highest level of classification. In this classification, only select individuals from the NSA and government have access to the information.&#x20;

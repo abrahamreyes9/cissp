@@ -10,9 +10,7 @@ Common classes of sensitive information include:&#x20;
 * Protected health information (PHI) which includes individual health records.&#x20;
 * Proprietary information which contains trade secrets.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Information should be labeled with its classification and security controls should be defined and appropriate for each classification level.&#x20;
 
@@ -23,8 +21,6 @@ This is known as data minimization.
 Data should be retained no longer than necessary. Use sanitization technology to ensure that no traces of data remain on media (data remnance) before discarding it.
 
 Erasing performs a delete operation on a file but the data remains on disk. Clearing overwrites the data with random values to ensure that it is sanitized.
-
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Security baselines, such as NIST SP 800-53, provide a standardized set of controls that an organization may use as a benchmark.&#x20;
 
