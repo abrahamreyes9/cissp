@@ -1,5 +1,30 @@
 # Laws
 
+The following is just an extract of laws which need to be understood.
+
+* Comprehensive Crime Control Act CCCA 1984
+* 1994 CFAA Amendments
+* Computer Security Act of 1987
+* National Information Infrastructure Protection Act of 1996
+* Government Information Security Reform Act of 2000
+* Federal Information Security Management Act
+* Copyrights and the Digital Millennium Copyright Act
+* Economic Espionage Act of 1996
+* Privacy Act of 1974
+* Electronic Communication Privacy Act of 1986
+* Children’s Online Privacy Protection Act of 1998
+
+Additional UK Laws
+
+* The Computer Misuse Act 1990
+* The Data Protection Act 1998
+* Regulation of Investigatory Powers Act 2000
+* Communication Data Bill
+* Fraud Act 2006
+* Forgery and Counterfeiting act 1981
+* Copyright, Design and Patents Act 1998
+* Obscene Publication Act 1959
+
 ITAR, 1976. Defense goods, arms export control act FERPA – Education&#x20;
 
 GLBA, Graham, Leach, Bliley; credit-related PII (21)&#x20;
