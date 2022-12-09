@@ -55,7 +55,7 @@
   * [NIST Guidelines for Risk Assessment](domain-1/1.10-understand-and-apply-risk-management-concepts/nist-guidelines-for-risk-assessment.md)
   * [Risk](domain-1/1.10-understand-and-apply-risk-management-concepts/risk.md)
   * [Risk Estimation](domain-1/1.10-understand-and-apply-risk-management-concepts/risk-estimation.md)
-* [1.11 Understand and apply threat modeling concepts and methodologies](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies/README.md)
+* [1.11 Understand and apply threat modeling concepts and methodologies](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies.md)
   * [TRIKE](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies/trike.md)
   * [VAST](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies/vast.md)
   * [PASTA](domain-1/1.11-understand-and-apply-threat-modeling-concepts-and-methodologies/pasta.md)
